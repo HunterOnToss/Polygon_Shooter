@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "{5859E9DB-43F0-6D35-0BAE-74AC42D6FF7C}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Polygon_Shooter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
